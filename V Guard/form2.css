@@ -1,0 +1,18 @@
+select,
+option {
+  width: 100%;
+  padding: 12px 10px;
+  margin: 10px 0;
+  border-radius: 10px;
+  display: block;
+}
+
+
+select {
+  background-color: rgb(87, 87, 87);
+  color: #feb70f;
+  border: none;
+  font-size: 100%;
+  letter-spacing: 0.2em;
+}
+
